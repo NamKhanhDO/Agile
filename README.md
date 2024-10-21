@@ -1,4 +1,5 @@
-Pyroscope Project
+# Pyroscope PROJECT
+
 - ASTRUC Mathieu - PRODUCT OWNER
 - OUVRARD Emilien - SCRUM MASTER
 - BRUS Clément - QUALITY ASSURANCE EXPERT
